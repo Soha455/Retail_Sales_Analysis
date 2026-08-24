@@ -38,10 +38,7 @@ $$
 $$
 
 ### 3. Pareto 80/20 Analysis
-**`03_product_and_category_performance.sql`**
-
 - Calculated running totals using SQL window frames:
-- ```sql
 -ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
 -Segmented catalog items into:
 -Top 80% Core Contributors
